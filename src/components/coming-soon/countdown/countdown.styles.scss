@@ -1,0 +1,13 @@
+.launching {
+    display: flex;
+
+    div {
+        flex-basis: 100px;
+        margin: 0 10px;
+
+        p {
+            font-size: 60px;
+            margin-bottom: -10px;
+        }
+    }
+}
