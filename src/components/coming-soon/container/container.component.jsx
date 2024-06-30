@@ -16,7 +16,7 @@ const Container = () => {
         <h1>
           We're <span>Launching</span> Soon
         </h1>
-        <Countdown targetDate="July 1, 2024 00:00:00" />
+        <Countdown targetDate="July 20, 2024 00:00:00" />
         <button type="button">
           Learn More
         </button>
